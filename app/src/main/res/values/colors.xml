@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFCF79</color>
+    <color name="black">#000</color>
+    <color name="marker_color">#AFFF</color>
+    <color name="text_color">#FF000000</color>
+    <color name="secondHandColorRed">#FFFF0000</color>
+    <color name="green">#FF1AFF00</color>
+    <color name="blue">#FF00AAFF</color>
+
+
+    <color name="shadow_color">#7AAA</color>
+    <color name="outer_border">#FF444444</color>
+    <color name="inner_border_one">#FF323232</color>
+    <color name="inner_border_two">#FF414141</color>
+    <color name="inner_border">#FFFFFFFF</color>
+</resources>
